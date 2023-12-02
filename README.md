@@ -3,12 +3,12 @@ DUMP TOOLS
 
 
 # HOW TO USE
-pip3 install google
+*pip3 install google*
 
-cd /sdcard/download
+*cd /sdcard/download*
 
-git clone {url}
+*git clone https://github.com/EngssDoSxy/JCDUMPS-WEB.git*
 
-python JXDUMPS.py
+*python JXDUMPS.py*
 
 # OPEN SOURCE TOOLS
