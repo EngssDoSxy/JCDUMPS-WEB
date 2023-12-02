@@ -10,3 +10,5 @@ cd /sdcard/download
 git clone {url}
 
 python JXDUMPS.py
+
+# OPEN SOURCE TOOLS
